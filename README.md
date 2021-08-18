@@ -1,6 +1,6 @@
 
 # RShell
-A simple example of Reverse Shell Connecting writen in NodeJS.
+Simple example of Reverse Shell Connecting writen in NodeJS.
 
 ## Installation
 npm:
